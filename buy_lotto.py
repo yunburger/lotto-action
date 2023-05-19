@@ -6,7 +6,7 @@ USER_ID = 'pyb56877' # 수정1
 USER_PW = 'Aktnftk12@' #수정2
 
 # 구매 개수를 설정
-COUNT = 1
+COUNT = 5
 
 def run(playwright: Playwright) -> None:
 
